@@ -1,4 +1,4 @@
-# ```BOTZ10 LAST```
+# ```Beta test```
 
 <p align="center">
 <img src="https://github.com/Animeseleraku/BOTZV2/blob/master/image/Alphabot.jpg" alt="BOTZV2" width="128" height="128"/>
@@ -30,7 +30,7 @@
 1. Git clone this repo<br/>
 
 ```
-> git clone https://github.com/Animeselerakuu/BOTZV2.git
+> git clone https://github.com/laplace449/rens.git
 > cd BOTZV2
 > npm i
 ```
@@ -76,6 +76,7 @@
 - [`Nayla`]()
 - [`Rimuru Botz`]()
 - [`Loki Killers`]()
+- [`TWC TeamVL`]()
 - [`Ara-Ara`]()
 - [`All creator bot`]()
 
