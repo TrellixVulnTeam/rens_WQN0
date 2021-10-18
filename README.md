@@ -82,6 +82,6 @@
 
 ## ```COFFEE```
 
-- [`SAWERIA`](https://saweria.co/AnimeSeleraku)
-- [`SOSMED`](https://instabio.cc/Rimuru)
+- [`SAWERIA`](https://saweria.co/Hagisuyo)
+- [`SOSMED`](https://facebook.com/)
 
